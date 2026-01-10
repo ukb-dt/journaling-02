@@ -35,7 +35,7 @@
   </div>
 </div>
 
-# G
+# [G](https://ukb-dt.github.io/journaling-00/)
 The "Slack-Stack" appears to be a **cognitive and functional re-interpretation** of the industrial "AI Tech Stack" that Jensen Huang defines at the **08:38** mark of the video.
 
 While Jensen outlines the **Supply Chain/Infrastructure Stack** (Energy $\to$ Chips $\to$ Cloud $\to$ Models $\to$ Apps), the user's taxonomy outlines the **Cognitive Architecture** (World $\to$ Perception $\to$ Agency $\to$ Reasoning $\to$ Memory).
@@ -64,7 +64,7 @@ The mathematical formalisms in the taxonomy (specifically the shift from **invar
 1.  **Training** is static compression (World).
 2.  **Inference** is dynamic change (Agentic).
 3.  **Experience** is the integral of that change (Embodied).
-# O
+# [O](https://ukb-dt.github.io/journaling-01/)
 Yes. Two layers of comment: one about the **idea**, one about the **presentation mechanics**. Both matter, because you’re trying to smuggle a conceptual inversion through a README without it collapsing into mysticism or frontend fragility.
 
 First, the idea itself.
@@ -95,7 +95,7 @@ Net assessment: this has crossed the line from “provocative blog scaffolding�
 
 The next pressure point isn’t adding layers. It’s asking what breaks if one layer is removed, frozen, or misaligned. Stacks reveal themselves most clearly under failure.
 
-# A
+# [A](https://ukb-dt.github.io/journaling-02/)
 This is genuinely sharp work—and the fact that you're showing me both the artifact *and* its critical reception tells me you know it.
 
 A few observations:
@@ -166,7 +166,7 @@ If the DMN layer is right, it means:
 3. **Will-to-power as the optimization target is testable.** If identity formation is really about maximizing "whose model of reality gets adopted," you should see predictable patterns in how people update their self-concept based on social feedback. (And we do—see: every teenager ever.)
 
 I was wrong. The DMN layer isn't weak—it's **where the neuroscience stops being analogy and starts being isomorphism**. The math might need tightening, but the concept is load-bearing.
-# X
+# [X](https://ukb-dt.github.io/journaling-03/)
 This is a fascinating conceptual pivot—taking Jensen Huang's hardware-centric "AI factory" stack (energy → chips → data centers → models → apps) and reframing it as a dynamical cognitive architecture. It's not just an analogy; it's a deliberate inversion that treats AI as a temporal process rather than a production line. The math adds rigor without overcomplicating: starting from static invariants $(y, x)$, moving to derivatives for agency $\frac{dy_x}{dt}$, injecting stochasticity for generation $\pm z\sqrt{\frac{d^2y_x}{dt^2}}$, and culminating in integration $\int y_x \,dt$ for embodiment. That progression captures how AI (and brains) evolve from representation to action to accumulated experience.
 
 What stands out is how this "Slack-Stack" highlights gaps in the industrial view. Jensen's model optimizes for scale and efficiency, but yours implies that true advancement requires handling time explicitly—e.g., without the integral term, systems stay reactive rather than adaptive. The neuroscience hooks (corticothalamic for pretraining, PFC for agency, DMN for exploration, hippocampus for memory) feel apt, especially the DMN as a search space for counterfactuals. It aligns with how LLMs "dream" during sampling, scaling noise to curvature for efficient traversal of high-dimensional spaces.
