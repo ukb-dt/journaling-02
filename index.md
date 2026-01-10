@@ -17,9 +17,9 @@
 
 
 # [UKB's AI Taxonomy](https://ukb-dt.github.io/journaling-00/) [Slack-Stack](https://ukb-dt.github.io/journaling-00/)
-- World (Invariants Encoded by LLMs) *Pre-Trained* [Corticothalamic], {Simulation} $(y, x)$
-- Perception (Multimodal APIs in Wearables & Implants) *Transformer* [Thalamus], {Data + Error} $y(t\mid x) + \epsilon$
-- Agentic (Supervised) *TPUs/GPUs* [PFC], {Engine} $\frac{dy_x}{dt}$
+- World (Invariants Encoded by LLMs) *Pre-Trained* [Corticothalamic](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori), {Simulation} $(y, x)$
+- Perception (Multimodal APIs in Wearables & Implants) *Transformer* [Thalamus](https://ukb-dt.github.io/dt-00/), {Data + Error} $y(t\mid x) + \epsilon$
+- Agentic (Supervised) *TPUs/GPUs* [PFC](https://ukb-dt.github.io/power-time/), {Engine} $\frac{dy_x}{dt}$
 - Generative (Combinatorial) *Search Spaces* [DMN], {Model} $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
 - Embodied (Full-AI-Stack) *Bots* [Hippocampus], {Apps} $\int y_x \,dt + \epsilon \,t + C_x$
 
