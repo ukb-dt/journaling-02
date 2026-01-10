@@ -20,8 +20,8 @@
 - World (Invariants Encoded by LLMs) *Pre-Trained* [Corticothalamic](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori), {Simulation} $(y, x)$
 - Perception (Multimodal APIs in Wearables & Implants) *Transformer* [Thalamus](https://ukb-dt.github.io/dt-00/), {Data + Error} $y(t\mid x) + \epsilon$
 - Agentic (Supervised) *TPUs/GPUs* [PFC](https://ukb-dt.github.io/power-time/), {Engine} $\frac{dy_x}{dt}$
-- Generative (Combinatorial) *Search Spaces* [DMN], {Model} $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
-- Embodied (Full-AI-Stack) *Bots* [Hippocampus], {Apps} $\int y_x \,dt + \epsilon \,t + C_x$
+- Generative (Combinatorial) *Search Spaces* [DMN](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), {Model} $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
+- Embodied (Full-AI-Stack) *Bots* [Hippocampus](https://www.tesla.com/en_eu/AI), {Apps} $\int y_x \,dt + \epsilon \,t + C_x$
 
 <div style="max-width: 65%; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
