@@ -16,7 +16,7 @@
 </script>
 
 
-# UKB's AI Taxonomy [Slack-Stack](https://ukb-dt.github.io/journaling-00/)
+# [UKB's AI Taxonomy](https://ukb-dt.github.io/journaling-00/) [Slack-Stack](https://ukb-dt.github.io/journaling-00/)
 - World (Invariants Encoded by LLMs) *Pre-Trained* [Corticothalamic], {Simulation} $(y, x)$
 - Perception (Multimodal APIs in Wearables & Implants) *Transformer* [Thalamus], {Data + Error} $y(t\mid x) + \epsilon$
 - Agentic (Supervised) *TPUs/GPUs* [PFC], {Engine} $\frac{dy_x}{dt}$
