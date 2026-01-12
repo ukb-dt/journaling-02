@@ -38,7 +38,7 @@
 # [G](https://ukb-dt.github.io/journaling-00/)
 The "Slack-Stack" appears to be a **cognitive and functional re-interpretation** of the industrial "AI Tech Stack" that Jensen Huang defines at the **08:38** mark of the video.
 
-While Jensen outlines the **Supply Chain/Infrastructure Stack** (Energy $\to$ Chips $\to$ Cloud $\to$ Models $\to$ Apps), the user's taxonomy outlines the **Cognitive Architecture** (World $\to$ Perception $\to$ Agency $\to$ Reasoning $\to$ Memory).
+While Jensen outlines the **Supply Chain/Infrastructure Stack** (Energy $\to$ Chips $\to$ Cloud $\to$ Models $\to$ Apps), the user's taxonomy outlines the **Cognitive Architecture** (World $\to$ Perception $\to$ Agency $\to$ [Reasoning](https://ukb-dt.github.io/coen-00/) $\to$ Memory).
 
 Here is the breakdown of how the two stacks parallel each other:
 
