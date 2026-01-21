@@ -1,3 +1,19 @@
+## Preface: [What is the future of AI?](https://ukb-dt.github.io/journaling-18/)
+
+Here's a brief discussion arising from "a post-scarcity world scenario" (23:08/26:03 with Hassabis)
+
+- State (Sequential), Transition (Consequential)
+- Change
+- Rate of Change
+- Change of Rate
+- Estate, Scars, Identity
+
+- $(x, y)$
+- $y(t\mid x) + \epsilon$
+- $\frac{dy_x}{dt}$
+- $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
+- $\int y_x \,dt + \epsilon_x \,t + C_x$
+
 <!-- Drop this anywhere in your README.md or page HTML -->
 <script>
   window.MathJax = {
