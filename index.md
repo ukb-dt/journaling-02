@@ -23,8 +23,10 @@
 - Generative (Combinatorial) *Search Spaces* [DMN](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), {Model} $\frac{dy_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2y_x}{dt^2}}$
 - Embodied (Full-AI-Stack) *Bots* [Hippocampus](https://www.tesla.com/en_eu/AI), {Apps} $\int y_x \,dt + \epsilon \,t + C_x$
 
-<div style="max-width: 65%; margin: 0 auto;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="max-width: 65%; margin: 0 auto; display: flex; gap: 16px;">
+  
+  <!-- Video 1 -->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
       src="https://www.youtube.com/embed/s4haopj2XeA?start=518"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -33,6 +35,18 @@
       allowfullscreen>
     </iframe>
   </div>
+
+  <!-- Video 2 -->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/BbIaYFHxW3Y?start=102"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
 </div>
 
 # [G](https://ukb-dt.github.io/journaling-00/)
