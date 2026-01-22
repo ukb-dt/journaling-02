@@ -6,7 +6,7 @@ Here's a brief discussion arising from "a post-scarcity world scenario" (23:08/2
 - Change
 - Rate of Change
 - Change of Rate
-- Estate, Scars, Identity
+- [Estate, Scars, Identity](https://ukb-dt.github.io/journaling-20/)
 
 - $(x, y)$
 - $y(t\mid x) + \epsilon$
